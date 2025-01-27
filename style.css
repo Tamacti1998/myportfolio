@@ -128,7 +128,7 @@ body {
 
 @keyframes slide {
     from {
-        transfrom: translateY(0);
+        transfrom: translateX(0);
     }
 
     to {
