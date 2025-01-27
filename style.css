@@ -132,7 +132,7 @@ body {
     }
 
     to {
-        transform: translateX(-10px);
+        transform: translateX(-100px);
     }
 
 }
